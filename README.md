@@ -39,7 +39,7 @@ Previously worked as an experimental scientist, gaining experience with experien
 - [AI-chatbot trained on 15,000 bioinformatics papers](https://www.mmartyn.com/projects/bioinfo-bot/)
 - [DNA concentration card game written in JS, HTML and CSS](https://www.mmartyn.com/projects/dna_game/)
 - [Explore places that I have visited](https://www.mmartyn.com/projects/globe/)
-▶️ [more projects...](https://www.mmartyn.com/projects)
+- ▶️ [more projects...](https://www.mmartyn.com/projects)
 
 ---
 
@@ -49,7 +49,7 @@ Previously worked as an experimental scientist, gaining experience with experien
 - [How do smartwatches see?](https://www.mmartyn.com/blog/how-do-smartwatches-see/)
 - [India trip - May 2023](https://www.mmartyn.com/blog/2023-travels-india/)
 - [Advanced health monitoring in smatchwatches](https://www.mmartyn.com/blog/advanced-health-monitoring-in-smartwatches-past-pr/)
-▶️ [more blog posts...](https://www.mmartyn.com/blogs/1/)
+- ▶️ [more blog posts...](https://www.mmartyn.com/blogs/1/)
 
 ---
 
