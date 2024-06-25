@@ -6,9 +6,9 @@
 
 ---
 
-I am a tri-national passionate about running, health, and sustainability. I worked on all things data and web apps @ Impossible Foods & Zymergen - developed software tools to solve scientists needs, whether that be automated analysis pipelines, structured data, web apps, or data visualisations.
+I am a tri-national passionate about running, health, and sustainability. I have worked on all things bioinformatics, data, and web apps @ Profluent Bio, Impossible Foods, & Zymergen - developed software tools to solve scientists needs, whether that be automated analysis pipelines, structured data, web apps, or data visualisations.
 
-Previously worked as an experimental scientist, gaining experience with experience in DNA assembly, genomics, and genome engineering. Consistently worked at the intersection of biology and software within highly interdisciplinary groups at Impossible Foods (R&D), Zymergen (R&D), and Newcastle University.
+Before becoming a computational person I worked as an experimental synthetic biologist, gaining experience with experience in DNA assembly, genomics, and high-throughput genome engineering. Throughout my positions, I have consistently worked at the intersection of biology and software within highly interdisciplinary groups at Profluent Bio, Impossible Foods (R&D), Zymergen (R&D), and Newcastle University.
 
 ---
 
